@@ -14,12 +14,11 @@
 • A rota tem quatro parâmetros obrigatórios: cepDestino, cepOrigem, peso e nomeDestinatario.
 
 • Em caso de sucesso retorna o status code `200` e um *JSON* contendo o valor total do frete e a data prevista da entrega.
-
-• Em caso de erro, que pode ocorrer devido a ausência de algum parâmetro, por exemplo, retorna status code `400`.
-
 ```
   {
     "dataPrevistaEntrega": "dd/MM/yyyy",
     "vlTotalFrete": 0
   }
 ```
+
+• Em caso de erro, que pode ocorrer devido a ausência de algum parâmetro, por exemplo, retorna status code `400`.
