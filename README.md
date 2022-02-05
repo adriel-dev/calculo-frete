@@ -7,7 +7,7 @@
 
 **•**  Projeto realizado seguindo todas as especificações do desafio, e assim concluindo o mesmo. 
 
-## Rotas da aplicação
+## Rota da aplicação
 
 ### GET `/frete`
 
