@@ -11,9 +11,9 @@
 
 ### GET `/frete`
 
-• A rota tem quatro parâmetros obrigatórios: cepDestino, cepOrigem, peso e nomeDestinatario.
+• A rota tem quatro parâmetros **obrigatórios**: **cepDestino**, **cepOrigem**, **peso** e **nomeDestinatario**.
 
-• Em caso de sucesso retorna o status code `200` e um *JSON* contendo o valor total do frete e a data prevista da entrega.
+• Em caso de sucesso retorna o status code `200` e um **JSON** contendo o valor total do frete e a data prevista da entrega.
 ```
   {
     "dataPrevistaEntrega": "dd/MM/yyyy",
