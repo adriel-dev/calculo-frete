@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o Projeto
 
-**•**  Projeto realizado seguindo todas as especificações do desafio, e assim concluindo o mesmo. 
+**•**  Projeto realizado seguindo todas as especificações do desafio.
 
 ## Rota da aplicação
 
