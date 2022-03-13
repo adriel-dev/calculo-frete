@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o Projeto
 
-**•**  Objetivo:
+**•**  O objetivo é a realização do seguinte desafio:
 
 Implementar para empresa de transporte de cargas SigaBem o endpoint para o cálculo do preço do frete:
 
