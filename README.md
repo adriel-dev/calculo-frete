@@ -5,7 +5,8 @@
 
 ## 💻 Sobre o Projeto
 
-**•**  Objetivo
+**•**  Objetivo:
+
 Implementar para empresa de transporte de cargas SigaBem o endpoint para o cálculo do preço do frete:
 
 Você deve calcular o valor total do frete e a data prevista da entrega.
